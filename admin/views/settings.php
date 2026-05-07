@@ -222,7 +222,7 @@ $rext_ai_default_permissions = array(
 			</ol>
 
 			<p>
-				<a href="https://docs.rext.ai/wordpress" target="_blank" class="button button-link">
+				<a href="https://rext.ai/wordpress" target="_blank" class="button button-link">
 					<?php esc_html_e( 'View Documentation', 'rext-ai-publisher' ); ?>
 					<span class="dashicons dashicons-external"></span>
 				</a>
