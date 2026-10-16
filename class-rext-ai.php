@@ -5,7 +5,7 @@
  * Description: Seamlessly publish content from Rext AI directly to your WordPress site. Supports all major SEO plugins.
  * Version: 1.0.0
  * Author: Rext AI Team
- * Author URI: https://rext.ai
+ * Author URI: https://wpgrit.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: rext-ai-publisher
